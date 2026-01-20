@@ -50,4 +50,4 @@ b) Confidence interval for forecast reliability
 c) Helps in demand planning and revenue forecasting
 
 7. Snapshot of Dashboard
-   
+https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png   
