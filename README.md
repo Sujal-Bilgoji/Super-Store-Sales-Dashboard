@@ -5,17 +5,18 @@ This project presents an interactive Super Store Sales Dashboard and Sales Forec
 
 2. Objectives
 a) Analyze historical sales data to identify trends and patterns
+
 b) Monitor business performance using interactive KPIs
 c) Compare category, region, and customer segment performance
 d) Forecast future sales using time-series analysis
 e) Support strategic and operational business decisions
 
-3. Tools & Technologies
+4. Tools & Technologies
 a) Microsoft Power BI – Dashboard creation & forecasting
 b) Power Query – Data cleaning and transformation
 c) DAX (Data Analysis Expressions) – Measures and calculations
 
-4. Dataset
+5. Dataset
 a) The dataset represents a Super Store sales dataset containing:
 b) Order Details (Order ID, Order Date, Ship Mode)
 c) Customer Details (Customer Name, Segment, Region, State, City)
