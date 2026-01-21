@@ -55,4 +55,4 @@ c) Helps in demand planning and revenue forecasting
 
 8. Snapshot of Forecast
 
-![Forecast Preview](https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png) 
+![Forecast Preview](https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Forecasting%20Snapshot.png) 
