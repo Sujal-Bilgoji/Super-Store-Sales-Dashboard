@@ -51,4 +51,8 @@ c) Helps in demand planning and revenue forecasting
 
 7. Snapshot of Dashboard
    
-![Dashboard Preview](https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)   
+![Dashboard Preview](https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)  
+
+8. Snapshot of Forecast
+
+![Forecast Preview](https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png) 
