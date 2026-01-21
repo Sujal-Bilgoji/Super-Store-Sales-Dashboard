@@ -4,11 +4,15 @@
 This project presents an interactive Super Store Sales Dashboard and Sales Forecasting solution built using Microsoft Power BI. It focuses on analyzing historical sales data to uncover meaningful business insights and predict future sales trends to support data-driven decision-making.The dashboard visualizes key performance indicators such as total sales, profit, orders, category-wise performance, regional trends, and customer segments, along with a time-series-based sales forecast.
 
 2. Objectives
+   
 a) Analyze historical sales data to identify trends and patterns
 
 b) Monitor business performance using interactive KPIs
+
 c) Compare category, region, and customer segment performance
+
 d) Forecast future sales using time-series analysis
+
 e) Support strategic and operational business decisions
 
 4. Tools & Technologies
