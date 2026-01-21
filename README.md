@@ -1,12 +1,12 @@
 # Super-Store-Sales-Dashboard
 
-1. Project Overview
+1. PROJECT OVERVIEW
 
 This project presents an interactive Super Store Sales Dashboard and Sales Forecasting solution built using Microsoft Power BI. It focuses on analyzing historical sales data to uncover meaningful business insights and predict future sales trends to support data-driven decision-making.The dashboard visualizes key performance indicators such as total sales, profit, orders, category-wise performance, regional trends, and customer segments, along with a time-series-based sales forecast.
 
 
 
-2. Objectives
+2. OBJECTIVE
    
 a) Analyze historical sales data to identify trends and patterns
 
@@ -20,7 +20,7 @@ e) Support strategic and operational business decisions
 
 
 
-3. Tools & Technologies
+3. TOOLS AND TECHNOLOGIES
    
 a) Microsoft Power BI – Dashboard creation & forecasting
 
@@ -30,7 +30,7 @@ c) DAX (Data Analysis Expressions) – Measures and calculations
 
 
 
-4. Dataset
+4. DATASET
    
 The dataset represents a Super Store sales dataset containing:
 
@@ -46,7 +46,7 @@ The data is cleaned and transformed using Power Query before building the dashbo
 
 
 
-5. Dashboard Features
+5. DASHBOARD FEATURES
 
 🔹 Key Performance Indicators (KPIs)
 
@@ -78,7 +78,7 @@ c) Segment
 
 
 
-6. Sales Forecasting
+6. SALES FORECASTING
    
 The project uses Power BI’s built-in time series forecasting feature to predict future sales based on historical data.
 Forecast Highlights:
@@ -90,11 +90,11 @@ b) Confidence interval for forecast reliability
 c) Helps in demand planning and revenue forecasting
 
 
-7. Snapshot of Dashboard
+7. SNAPSHOT OF DASHBOARD
    
 ![Dashboard Preview](https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)  
 
 
-8. Snapshot of Forecast
+8. SNAPSHOT OF FORECASTING
 
 ![Forecast Preview](https://github.com/Sujal-Bilgoji/Super-Store-Sales-Dashboard/blob/main/Forecasting%20Snapshot.png) 
